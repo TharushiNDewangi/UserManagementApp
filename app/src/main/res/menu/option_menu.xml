@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/signout"
+        android:title="@string/signout" />
+    <item
+        android:id="@+id/resetpassword"
+        android:title="@string/reset_password" />
+    <item
+        android:id="@+id/update_email"
+        android:title="@string/update_email" />
+    <item
+        android:id="@+id/delete_acc"
+        android:title="@string/delete_acc" />
+</menu>
